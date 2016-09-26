@@ -1,0 +1,26 @@
+﻿កក្កដ
+uni1780 uni1780 uni1780 uni178A
+uni1780 -> uni17D21780
+ថ្ងៃ
+uni1790 uni1784 uni17C3
+uni1784 -> uni17D21784
+ចន្ទ
+uni1785 uni1793 uni1791
+uni1791 -> uni17D21791
+ខ្មៅ
+uni1781 uni1798 uni17C5
+uni1798 -> uni17D21798
+ម្ពុ
+uni1798 uni1796 uni17BB
+uni1796 -> uni17D21796
+
+
+ក្នុង
+uni1780 uni1793 uni17BB uni1784
+uni1793 -> uni17D21793
+កន្លង
+uni1780 uni1793 uni179B uni1784
+uni179B -> uni17D2179B
+ខ្ញុំ
+uni1781 uni1789 uni17BB uni17C6
+uni1789 -> uni17D21789
